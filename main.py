@@ -39,7 +39,7 @@ def on_forever():
 
     basic.pause(50) #reakční frekvence 20 Hz
 basic.forever(on_forever)
-
+print ("Roman je blb")
 # def on_bluetooth_connected():
 #     global connected
 #     basic.show_icon(IconNames.HEART)
